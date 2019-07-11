@@ -2,7 +2,8 @@
     "builds": [
       { "src": "*.html", "use": "@now/static" },
       { "src": "data/*.json", "use": "@now/static" },
-      { "src": "scripts/*.js", "use": "@now/static" }
+      { "src": "scripts/*.js", "use": "@now/static" },
+      { "src": "*.css", "use": "@now/static" }
     ]
   }
   
