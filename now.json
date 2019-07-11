@@ -4,6 +4,8 @@
       { "src": "data/*.json", "use": "@now/node" },
       { "src": "scripts/*.js", "use": "@now/node" },
       { "src": "*.css", "use": "@now/node" }
+
+      
     ]
   }
   
