@@ -3,9 +3,9 @@
       { "src": "*.html", "use": "@now/static" },
       { "src": "data/*.json", "use": "@now/node" },
       { "src": "scripts/*.js", "use": "@now/node" },
-      { "src": "*.css", "use": "@now/node" }
+      { "src": "*.css", "use": "@now/static" }
 
-      
+
     ]
   }
   
