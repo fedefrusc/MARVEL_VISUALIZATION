@@ -1,6 +1,9 @@
 # MARVEL_VISUALIZATION
 This is a little project for an exam, the target is to visualize the marver cinematic universe.
-Opening the index file you'll find an interactive UI with some buttons:
+
+![Image of Vis](https://github.com/fedefrusc/MARVEL_VISUALIZATION/blob/master/screenshot.png)
+
+Opening [Marvel_Vis](https://marvel-visualization.now.sh/) you'll find an interactive UI with some buttons:
 
   - Movies Phases: allows to show all movies of the dataset.The movies are divided in phases according to Marvel Criteria. 
  
