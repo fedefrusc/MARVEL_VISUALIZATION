@@ -1,8 +1,6 @@
 # MARVEL_VISUALIZATION
 Graph visualization of MCU.
 
-![Image of Vis](https://github.com/fedefrusc/MARVEL_VISUALIZATION/master/screenshot.png)
-
 Opening [Marvel_Vis](https://marvel-visualization.now.sh/) you'll find an interactive UI with some buttons:
 
   - Movies Phases: allows to show all movies of the dataset.The movies are divided in phases according to Marvel Criteria. 
