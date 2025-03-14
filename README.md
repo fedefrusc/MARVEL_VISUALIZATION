@@ -27,7 +27,7 @@ Tecnologies:
  Interface: 
  - html
  - css
- - jsavascript.
+ - javascript.
  
  Network Drawing Library: 
  - Vis js.
